@@ -17,7 +17,7 @@ global.APIKeys = {
 //language 
 global.language = indonesia //change indonesia to english if you don't understand the language used by the bot
 
-global.BOT_TOKEN = "5802475550:AAHJqUo64YfRAGC62kk2Ts9j_5afg5CVFWA" //create bot here https://t.me/BotFather and get the bot token
+global.BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN" //create bot here https://t.me/BotFather and get the bot token
 global.BOT_NAME = "WannBotz" //your bot name
 global.OWNER_NAME = "WanXD Official" //your name
 global.OWNER_NUMBER = "6285757338680" //your telegram number
