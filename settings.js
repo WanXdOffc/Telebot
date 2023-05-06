@@ -22,6 +22,6 @@ global.BOT_NAME = "WannBotz" //your bot name
 global.OWNER_NAME = "WanXD Official" //your name
 global.OWNER_NUMBER = "6285757338680" //your telegram number
 global.OWNER = ["https://t.me/wanxdofficial", "https://t.me/wanxdofficial"] // pastikan username sudah sesuai agar fitur khusus owner bisa di pakai
-global.THUMBNAIL = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
+global.THUMBNAIL = "./image/profile.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.DONASI = "./image/donasi.jpg" // foto donasi di folder image
 global.lang = language //don't change
